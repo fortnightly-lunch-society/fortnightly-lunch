@@ -3,7 +3,7 @@
     <head>
         <title>The Fortnightly Lunch Society</title>
 
-        <link href="https://fonts.googleapis.com/css?family=Bangers:400" rel="stylesheet" type="text/css">
+        <link href="https://fonts.googleapis.com/css?family=Lato:100" rel="stylesheet" type="text/css">
 
         <style>
             html, body {
@@ -16,7 +16,7 @@
                 width: 100%;
                 display: table;
                 font-weight: 100;
-                font-family: 'Bangers';
+                font-family: 'Lato';
             }
 
             .container {
