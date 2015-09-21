@@ -1,1 +1,3 @@
-### Fortnightly Lunch 
+### Fortnightly Lunch
+
+The code for fortnightlylunch.org
